@@ -10,7 +10,7 @@ import chart_studio.tools as tls
 
 # Log into Chart studio for visual chart upload
 
-tls.set_credentials_file(username='3joemail', api_key='7g3F5QPZ52nrXwnynAGi')
+tls.set_credentials_file(username='•••••••', api_key='••••••••')
 
 # Custom function for pretty-printing a number with comma-separators and/or decimal vals 
 def comma_num(x, dollars=0, dec=0):
