@@ -5,7 +5,7 @@
 
 #### Source details: https://www.federalreserve.gov/econres/scfindex.htm
 
-Code adapted from Dan Valanzuela in `scf_collector.py`. Racial wealth gap analysis & plotting in `wealth_stats_overtime.py`. Use `Examples.py` to replicate these results and for conducting further analysis.
+SCF data collection code adapted from Dan Valanzuela (in `scf_collector.py`). Racial wealth gap analysis & plotting in `wealth_stats_overtime.py`. Use `Examples.py` to replicate these results and for conducting further analysis.
 
 Vehicle values are subtracted from household net wealth to reduce skew from consumer durables in cross-demographic analyses. For racial wealth gap analysis, all five implicates for each housold are weighted with a factor of 1/5.
 
