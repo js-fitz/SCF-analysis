@@ -21,5 +21,217 @@ To load a Pandas dataframe or CSV for a given year, use `wealth_stats_overtime.l
 
 ## [View Interactive →](https://chart-studio.plotly.com/~3joemail/32/#/)
 
+```
+1992 ————————————————————————————————————————————————————————————
+> WHITE NON-HISPANIC
+   > AVG NETWORTH: $381,552
+   > 72,215,118 total PEUs
+     > 9,738,974 HHs have ≤0 networth, (13.5%)
+> BLACK/AFRICAN-AMERICAN
+   > AVG NETWORTH: $77,654
+   > 12,150,298 total PEUs
+     > 4,105,833 HHs have ≤0 networth, (33.8%)
+> HISPANIC
+   > AVG NETWORTH: $88,145
+   > 7,186,414 total PEUs
+     > 3,089,635 HHs have ≤0 networth, (43.0%)
+> OTHER
+   > AVG NETWORTH: $340,463
+   > 4,365,788 total PEUs
+     > 687,622 HHs have ≤0 networth, (15.8%)
 
+Total average networth: $319,203
+
+
+1995 ————————————————————————————————————————————————————————————
+> WHITE NON-HISPANIC
+   > AVG NETWORTH: $400,598
+   > 76,820,883 total PEUs
+     > 10,760,718 HHs have ≤0 networth, (14.0%)
+> BLACK/AFRICAN-AMERICAN
+   > AVG NETWORTH: $64,295
+   > 12,668,213 total PEUs
+     > 4,062,172 HHs have ≤0 networth, (32.1%)
+> OTHER
+   > AVG NETWORTH: $327,548
+   > 3,902,090 total PEUs
+     > 780,122 HHs have ≤0 networth, (20.0%)
+> HISPANIC
+   > AVG NETWORTH: $90,039
+   > 5,619,272 total PEUs
+     > 2,099,238 HHs have ≤0 networth, (37.4%)
+
+Total average networth: $337,064
+
+
+1998 ————————————————————————————————————————————————————————————
+> WHITE NON-HISPANIC
+   > AVG NETWORTH: $506,279
+   > 79,717,358 total PEUs
+     > 11,728,874 HHs have ≤0 networth, (14.7%)
+> BLACK/AFRICAN-AMERICAN
+   > AVG NETWORTH: $91,812
+   > 12,159,966 total PEUs
+     > 3,334,373 HHs have ≤0 networth, (27.4%)
+> HISPANIC
+   > AVG NETWORTH: $124,635
+   > 7,377,337 total PEUs
+     > 2,672,570 HHs have ≤0 networth, (36.2%)
+> OTHER
+   > AVG NETWORTH: $400,302
+   > 3,294,182 total PEUs
+     > 639,096 HHs have ≤0 networth, (19.4%)
+
+Total average networth: $426,273
+
+
+2001 ————————————————————————————————————————————————————————————
+> WHITE NON-HISPANIC
+   > AVG NETWORTH: $675,609
+   > 81,178,538 total PEUs
+     > 10,572,309 HHs have ≤0 networth, (13.0%)
+> BLACK/AFRICAN-AMERICAN
+   > AVG NETWORTH: $96,852
+   > 13,877,539 total PEUs
+     > 4,289,465 HHs have ≤0 networth, (30.9%)
+> HISPANIC
+   > AVG NETWORTH: $118,753
+   > 8,475,883 total PEUs
+     > 2,960,010 HHs have ≤0 networth, (34.9%)
+> OTHER
+   > AVG NETWORTH: $525,949
+   > 2,963,849 total PEUs
+     > 753,340 HHs have ≤0 networth, (25.4%)
+
+Total average networth: $551,706
+
+
+2004 ————————————————————————————————————————————————————————————
+> WHITE NON-HISPANIC
+   > AVG NETWORTH: $726,345
+   > 82,511,134 total PEUs
+     > 10,702,984 HHs have ≤0 networth, (13.0%)
+> BLACK/AFRICAN-AMERICAN
+   > AVG NETWORTH: $137,554
+   > 15,202,286 total PEUs
+     > 4,475,090 HHs have ≤0 networth, (29.4%)
+> HISPANIC
+   > AVG NETWORTH: $155,184
+   > 10,283,952 total PEUs
+     > 3,220,440 HHs have ≤0 networth, (31.3%)
+> OTHER
+   > AVG NETWORTH: $488,302
+   > 4,111,565 total PEUs
+     > 621,380 HHs have ≤0 networth, (15.1%)
+
+Total average networth: $585,380
+
+
+2007 ————————————————————————————————————————————————————————————
+> WHITE NON-HISPANIC
+   > AVG NETWORTH: $807,333
+   > 85,828,373 total PEUs
+     > 12,474,832 HHs have ≤0 networth, (14.5%)
+> BLACK/AFRICAN-AMERICAN
+   > AVG NETWORTH: $153,070
+   > 14,604,931 total PEUs
+     > 4,864,085 HHs have ≤0 networth, (33.3%)
+> HISPANIC
+   > AVG NETWORTH: $210,593
+   > 10,931,263 total PEUs
+     > 3,643,719 HHs have ≤0 networth, (33.3%)
+> OTHER
+   > AVG NETWORTH: $680,759
+   > 4,743,075 total PEUs
+     > 584,488 HHs have ≤0 networth, (12.3%)
+
+Total average networth: $663,683
+
+
+2010 ————————————————————————————————————————————————————————————
+> WHITE NON-HISPANIC
+   > AVG NETWORTH: $716,729
+   > 83,262,210 total PEUs
+     > 14,912,685 HHs have ≤0 networth, (17.9%)
+> BLACK/AFRICAN-AMERICAN
+   > AVG NETWORTH: $102,412
+   > 16,262,068 total PEUs
+     > 5,355,738 HHs have ≤0 networth, (32.9%)
+> HISPANIC
+   > AVG NETWORTH: $111,107
+   > 12,653,864 total PEUs
+     > 4,371,914 HHs have ≤0 networth, (34.6%)
+> OTHER
+   > AVG NETWORTH: $585,250
+   > 5,431,074 total PEUs
+     > 941,592 HHs have ≤0 networth, (17.3%)
+
+Total average networth: $560,554
+
+
+2013 ————————————————————————————————————————————————————————————
+> WHITE NON-HISPANIC
+   > AVG NETWORTH: $720,938
+   > 85,882,792 total PEUs
+     > 13,977,733 HHs have ≤0 networth, (16.3%)
+> BLACK/AFRICAN-AMERICAN
+   > AVG NETWORTH: $92,763
+   > 17,904,989 total PEUs
+     > 7,165,590 HHs have ≤0 networth, (40.0%)
+> HISPANIC
+   > AVG NETWORTH: $107,836
+   > 13,041,734 total PEUs
+     > 4,427,649 HHs have ≤0 networth, (33.9%)
+> OTHER
+   > AVG NETWORTH: $613,413
+   > 5,700,555 total PEUs
+     > 1,191,790 HHs have ≤0 networth, (20.9%)
+
+Total average networth: $558,885
+
+
+2016 ————————————————————————————————————————————————————————————
+> WHITE NON-HISPANIC
+   > AVG NETWORTH: $931,710
+   > 85,711,518 total PEUs
+     > 12,612,162 HHs have ≤0 networth, (14.7%)
+> BLACK/AFRICAN-AMERICAN
+   > AVG NETWORTH: $134,516
+   > 19,973,733 total PEUs
+     > 6,265,404 HHs have ≤0 networth, (31.4%)
+> HISPANIC
+   > AVG NETWORTH: $176,481
+   > 14,282,169 total PEUs
+     > 3,993,402 HHs have ≤0 networth, (28.0%)
+> OTHER
+   > AVG NETWORTH: $736,935
+   > 6,014,281 total PEUs
+     > 1,213,072 HHs have ≤0 networth, (20.2%)
+
+Total average networth: $710,403
+
+
+2019 ————————————————————————————————————————————————————————————
+> WHITE NON-HISPANIC
+   > AVG NETWORTH: $925,673
+   > 87,471,288 total PEUs
+     > 12,185,649 HHs have ≤0 networth, (13.9%)
+> BLACK/AFRICAN-AMERICAN
+   > AVG NETWORTH: $126,732
+   > 20,135,498 total PEUs
+     > 5,618,500 HHs have ≤0 networth, (27.9%)
+> HISPANIC
+   > AVG NETWORTH: $173,608
+   > 14,061,114 total PEUs
+     > 3,625,433 HHs have ≤0 networth, (25.8%)
+> OTHER
+   > AVG NETWORTH: $1,031,723
+   > 6,974,531 total PEUs
+     > 1,093,166 HHs have ≤0 networth, (15.7%)
+
+Total average networth: $724,166
+
+```
 For question/comments contact Joe Fitzgerald (Data Consultant, Institute for Policy Studies): 3joemail@gmail.com
+
+
