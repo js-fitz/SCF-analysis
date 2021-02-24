@@ -22,4 +22,4 @@ To load a Pandas dataframe or CSV for a given year, use `wealth_stats_overtime.l
 ## [View Interactive →](https://chart-studio.plotly.com/~3joemail/32/#/)
 
 
-For question/comments contact Joe Fitzgerald (Data Consultant, Institute for Policy Studied): 3joemail@gmail.com
+For question/comments contact Joe Fitzgerald (Data Consultant, Institute for Policy Studies): 3joemail@gmail.com
