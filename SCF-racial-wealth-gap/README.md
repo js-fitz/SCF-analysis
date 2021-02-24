@@ -232,6 +232,4 @@ Total average networth: $710,403
 Total average networth: $724,166
 
 ```
-For question/comments contact Joe Fitzgerald (Data Consultant, Institute for Policy Studies): 3joemail@gmail.com
-
 
